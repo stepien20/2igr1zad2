@@ -1,6 +1,6 @@
 # 2igr1zad2
 
-1. utwórz w Twojej kopii repozytorium plik o nazwie  rozwiązanie_Twoje_Nazwisko.md
+1. utwórz w Twojej kopii repozytorium plik o nazwie  rozwiązanie_Twoje_Nazwisko.md - jako pierwszy wpis podaj swoje imię i nazwisko i klasę
 1. wszystkie komendy wpisuj także w pliku rozwiązanie_Twoje_Nazwisko.md
 
 1. otwórz w oknie prywatnym adres: (https://git-school.github.io/visualizing-git/)
@@ -18,3 +18,4 @@
 1. połączą gałąź master z gałęzią testing
 1. wydaj komendę wypisującą commity (jej zawartość zapisz w pliku w repozytorium)
 1. do pliku rozwiązanie_Twoje_Nazwisko.md  dałącz zrzut ekranu z Twoim zadaniem ze strony  (https://git-school.github.io/visualizing-git/)
+1. stwórz pull request swojego rozwiązania

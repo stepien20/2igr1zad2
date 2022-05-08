@@ -16,4 +16,8 @@ git commit
 git tag master4
 git commit
 git tag master5
-
+git checkout -b hotfix
+git commit
+git tag hotfix1
+git commit
+git tag hotfix2
